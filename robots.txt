@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /page-data/
+Sitemap: https://golangci.github.io/legacy-v1-doc/sitemap/sitemap-index.xml
+Host: https://golangci.github.io
